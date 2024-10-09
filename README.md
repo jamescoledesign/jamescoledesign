@@ -12,5 +12,6 @@ In addition to my design work and academic endeavors, I also enjoy travel, photo
 
 Human-computer interaction, human factors in space exploration, human cognition, signal processing, sensors, microcontrollers, brain-computer interfaces, robotics, satellites, user interface design, user experience design, music technology
 
+<br />
 
 Check out my projects at [jamescole.info](https://jamescole.info/)
