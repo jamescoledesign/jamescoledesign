@@ -1,4 +1,4 @@
-## Hi, I'm James
+## About
 
 I am a PhD student the Computer Science and Engineering program at the University of North Texas. I also completed a Master of Science in Applied Cognition and Neuroscience with a specialization in human-computer interaction (HCI) at the University Texas at Dallas in 2024.   
 
@@ -12,6 +12,5 @@ In addition to my design work and academic endeavors, I also enjoy travel, photo
 
 Human-computer interaction, human factors in space exploration, human cognition, signal processing, sensors, microcontrollers, brain-computer interfaces, robotics, satellites, user interface design, user experience design, music technology
 
----
 
 Check out my projects at [jamescole.info](https://jamescole.info/)
